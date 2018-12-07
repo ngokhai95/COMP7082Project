@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+    <string-array name="example_arr">
+        <item>Task 1            Date/Time</item>
+        <item>Task 2            Date/Time</item>
+        <item>Task 3            Date/Time</item>
+        <item>Task 4            Date/Time</item>
+        <item>Task 5            Date/Time</item>
+        <item>Task 6            Date/Time</item>
+        <item>Task 7            Date/Time</item>
+        <item>Task 8            Date/Time</item>
+        <item>Task 9            Date/Time</item>
+        <item>Task 10           Date/Time</item>
+    </string-array>
+    <string name="title_activity_maps">LocationPicker</string>
+    <string name="title_activity_location_picker">LocationPicker</string>
+</resources>
